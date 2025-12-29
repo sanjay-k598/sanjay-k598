@@ -31,24 +31,34 @@ AWS, Terraform, Kubernetes, CI/CD design, GitOps, scaling applications, and DevO
 ## 🏅 Certifications
 
 <p>
-  <a href="PASTE_YOUR_AWS_SAA_VERIFICATION_LINK">
-    <img src="https://raw.githubusercontent.com/sanjay-k598/sanjay-k598.github.io/main/assets/icons/aws-saa.png"
-         alt="AWS Solutions Architect Associate"
-         width="110" />
-  </a>
-
+  <!-- AWS Solutions Architect – Professional -->
   <a href="PASTE_YOUR_AWS_SAP_VERIFICATION_LINK">
-    <img src="https://raw.githubusercontent.com/sanjay-k598/sanjay-k598.github.io/main/assets/icons/aws-sap.png"
-         alt="AWS Solutions Architect Professional"
-         width="110" />
+    <img
+      src="https://raw.githubusercontent.com/sanjay-k598/sanjay-k598.github.io/main/assets/icons/aws-sap.png"
+      alt="AWS Solutions Architect Professional"
+      width="110"
+    />
   </a>
 
+  <!-- AWS Solutions Architect – Associate -->
+  <a href="PASTE_YOUR_AWS_SAA_VERIFICATION_LINK">
+    <img
+      src="https://raw.githubusercontent.com/sanjay-k598/sanjay-k598.github.io/main/assets/icons/aws-saa.png"
+      alt="AWS Solutions Architect Associate"
+      width="110"
+    />
+  </a>
+
+  <!-- Oracle Cloud Infrastructure Associate 2020 -->
   <a href="PASTE_YOUR_OCI_VERIFICATION_LINK">
-    <img src="https://raw.githubusercontent.com/sanjay-k598/sanjay-k598.github.io/main/assets/icons/oci.png"
-         alt="Oracle Cloud Infrastructure Associate 2020"
-         width="110" />
+    <img
+      src="https://raw.githubusercontent.com/sanjay-k598/sanjay-k598.github.io/main/assets/icons/oci.png"
+      alt="Oracle Cloud Infrastructure Associate 2020"
+      width="110"
+    />
   </a>
 </p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjaykhambam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sanjaykumar.k598) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjaykumar.k598@gmail.com) 
