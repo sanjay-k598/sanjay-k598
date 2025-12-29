@@ -28,6 +28,13 @@ AWS, Terraform, Kubernetes, CI/CD design, GitOps, scaling applications, and DevO
 <br><br>⚡ Fun fact<br>I enjoy breaking complex systems into simple building blocks and documenting them so others can move faster with confidence.
 
 
+## 🏅 Certifications
+
+![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Solutions Architect – Professional](https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Cloud Infrastructure Associate 2020](https://img.shields.io/badge/Oracle-OCI%20Associate%202020-red?style=for-the-badge&logo=oracle&logoColor=white)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjaykhambam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sanjaykumar.k598) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjaykumar.k598@gmail.com) 
 
