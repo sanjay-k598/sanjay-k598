@@ -9,6 +9,14 @@ I’ve worked on multi region architectures, shared Terraform modules, productio
 
 I like solving real problems, learning how systems behave under load, and turning messy setups into simple, repeatable patterns.
 
+<p align="right">
+  <img
+    src="https://raw.githubusercontent.com/sanjay-k598/sanjay-k598.github.io/main/assets/images/gif.gif"
+    alt="Coding illustration"
+    width="300"
+  />
+</p>
+
 ## Things I enjoy working on
 
 I enjoy building cloud platforms that teams actually enjoy using. My day to day work spans AWS infrastructure, Kubernetes and ECS based platforms, Terraform driven infrastructure as code, and CI/CD pipelines using GitHub Actions and Jenkins. I’m a strong believer in GitOps with ArgoCD and care deeply about observability, reliability, and scaling systems the right way.
