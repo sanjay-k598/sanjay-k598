@@ -11,11 +11,21 @@ I like solving real problems, learning how systems behave under load, and turnin
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <!-- LEFT: ABOUT TEXT -->
+    <td width="65%" valign="top">
+
+Hello! I’m Sanjay, a Platform and DevOps Engineer who enjoys building cloud platforms that teams actually enjoy using.
+
+My work spans AWS infrastructure, Kubernetes and ECS based platforms, Terraform driven infrastructure as code, and CI/CD pipelines using GitHub Actions and Jenkins. I follow GitOps practices with ArgoCD and care deeply about observability, reliability, and scaling systems the right way.
+
+I’m currently diving deeper into platform engineering, Kubernetes internals and networking, cloud security, and cost optimization. I’m also actively preparing for the **CKAD certification** while focusing on improving developer experience through simpler internal tooling.
+
     </td>
-    <td width="40%" align="center">
+
+    <!-- RIGHT: IMAGE / GIF -->
+    <td width="35%" align="center">
       <img
-        src="https://raw.githubusercontent.com/sanjay-k598/sanjay-k598.github.io/main/assets/images/gif.gif"
+        src="PASTE_YOUR_IMAGE_OR_GIF_URL_HERE"
         alt="Coding illustration"
         width="300"
       />
