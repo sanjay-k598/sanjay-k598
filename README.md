@@ -1,7 +1,7 @@
 ## Hi there, I'm Sanjay Khambam!👋
 
 # About Me:
-I’m a Platform and DevOps Engineer who enjoys building reliable cloud systems and making complex infrastructure easy to use.
+I’m a Platform and Cloud DevOps Engineer who enjoys building reliable cloud systems and making complex infrastructure easy to use.
 
 Most of my work lives around AWS, Kubernetes, and Terraform. I design and operate scalable platforms using ECS, EKS, GitOps, and CI/CD pipelines. I focus on clean infrastructure design, automation, security, and developer experience.
 
