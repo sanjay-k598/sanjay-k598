@@ -9,23 +9,22 @@ I’ve worked on multi region architectures, shared Terraform modules, productio
 
 I like solving real problems, learning how systems behave under load, and turning messy setups into simple, repeatable patterns.
 
-Things I enjoy working on
+<br>Things I enjoy working on
 	•	AWS infrastructure and cloud architecture
 	•	Kubernetes, ECS, and container platforms
 	•	Terraform modules and infrastructure as code
 	•	CI/CD pipelines with GitHub Actions and Jenkins
 	•	GitOps with ArgoCD
-	•	Observability, reliability, and scaling systems
+	•	Observability, reliability, and scaling systems <br>
 
-Currently learning
+<br>Currently learning
 	•	Platform engineering patterns
 	•	Kubernetes internals and networking
 	•	Cloud security and cost optimization
-	•	Improving developer experience on internal platforms
+	•	Improving developer experience on internal platforms<br>
 
 Ask me about
 AWS, Terraform, Kubernetes, CI/CD design, GitOps, scaling applications, and DevOps troubleshooting.
-
 <br><br>⚡ Fun fact<br>I enjoy breaking complex systems into simple building blocks and documenting them so others can move faster with confidence.
 
 
