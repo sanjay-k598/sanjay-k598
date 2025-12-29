@@ -1,9 +1,5 @@
 ## Hi there, I'm Sanjay Khambam!👋
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-
 # About Me:
 I’m a Platform and Cloud DevOps Engineer who enjoys building reliable cloud systems and making complex infrastructure easy to use.
 
@@ -13,7 +9,9 @@ I’ve worked on multi region architectures, shared Terraform modules, productio
 
 I like solving real problems, learning how systems behave under load, and turning messy setups into simple, repeatable patterns.
 
-
+<table>
+  <tr>
+    <td width="60%" valign="top">
     </td>
     <td width="40%" align="center">
       <img
