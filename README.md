@@ -32,7 +32,7 @@ AWS, Terraform, Kubernetes, CI/CD design, GitOps, scaling applications, and DevO
 
 <p>
   <!-- AWS Solutions Architect – Professional -->
-  <a href="PASTE_YOUR_AWS_SAP_VERIFICATION_LINK">
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential" target="_blank" rel="noopener">
     <img
       src="https://raw.githubusercontent.com/sanjay-k598/sanjay-k598.github.io/main/assets/icons/aws-sap.png"
       alt="AWS Solutions Architect Professional"
@@ -41,7 +41,7 @@ AWS, Terraform, Kubernetes, CI/CD design, GitOps, scaling applications, and DevO
   </a>
 
   <!-- AWS Solutions Architect – Associate -->
-  <a href="PASTE_YOUR_AWS_SAA_VERIFICATION_LINK">
+  <a href="https://www.credly.com/badges/9fd3e2c2-2224-4011-ae1c-10628c020256/linked_in_profile">
     <img
       src="https://raw.githubusercontent.com/sanjay-k598/sanjay-k598.github.io/main/assets/icons/aws-saa.png"
       alt="AWS Solutions Architect Associate"
@@ -50,9 +50,9 @@ AWS, Terraform, Kubernetes, CI/CD design, GitOps, scaling applications, and DevO
   </a>
 
   <!-- Oracle Cloud Infrastructure Associate 2020 -->
-  <a href="PASTE_YOUR_OCI_VERIFICATION_LINK">
+  <a href="https://www.credly.com/badges/ee899c66-5372-4b21-b690-398e00fe2d7b/linked_in">
     <img
-      src="https://raw.githubusercontent.com/sanjay-k598/sanjay-k598.github.io/main/assets/icons/oci.png"
+      src="https://raw.githubusercontent.com/sanjay-k598/sanjay-k598.github.io/main/assets/icons/oci..png"
       alt="Oracle Cloud Infrastructure Associate 2020"
       width="110"
     />
