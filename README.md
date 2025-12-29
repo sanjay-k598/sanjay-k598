@@ -33,36 +33,29 @@ AWS, Terraform, Kubernetes, CI/CD design, GitOps, scaling applications, and DevO
 
 # 💻 Tech Stack:
 
-### ☁️ Cloud & Platforms
+# 💻 Tech Stack:
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 📦 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitOps](https://img.shields.io/badge/GitOps-0A0A0A?style=for-the-badge&logo=argo&logoColor=white)
-
-### 🧱 Infrastructure & Configuration
 ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-### 🔁 CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### 📊 Observability
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### 🤖 MLOps & Automation
-![MLOps](https://img.shields.io/badge/MLOps-0A0A0A?style=for-the-badge)
+![CyberArk](https://img.shields.io/badge/CyberArk-000000?style=for-the-badge&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
+![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanjay-k598&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sanjay-k598&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-k598&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![MLOps](https://img.shields.io/badge/MLOps-0A0A0A?style=for-the-badge)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sanjay-k598&icon=0&color=0)](https://visitcount.itsvg.in)
