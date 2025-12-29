@@ -1,7 +1,32 @@
 ## Hi there, I'm Sanjay Khambam!👋
 
 # About Me:
-🛠️ I’m currently working on<br>Building and operating cloud platforms on AWS with a strong focus on ECS, EKS, Terraform, and CI/CD pipelines. I work on multi region infrastructure, GitOps workflows, and secure platform foundations that teams can rely on.<br><br>🤝 I’m looking to collaborate on<br>Cloud infrastructure, Kubernetes, Terraform modules, GitOps with ArgoCD, platform engineering projects, and open source DevOps tools that improve developer productivity.<br><br>🧠 I’m looking for help with<br>Advanced Kubernetes networking, platform observability at scale, cost optimization strategies, and improving developer experience on internal platforms.<br><br>📚 I’m currently learning<br>Platform engineering patterns, Kubernetes internals, cloud security best practices, GitHub Actions at scale, and building reusable infrastructure modules.<br><br>💬 Ask me about<br>AWS, Terraform, ECS vs EKS, CI/CD design, GitOps, system reliability, scaling applications, and real world DevOps troubleshooting.<br><br>⚡ Fun fact<br>I enjoy breaking complex systems into simple building blocks and documenting them so others can move faster with confidence.
+I’m a Platform and DevOps Engineer who enjoys building reliable cloud systems and making complex infrastructure easy to use.
+
+Most of my work lives around AWS, Kubernetes, and Terraform. I design and operate scalable platforms using ECS, EKS, GitOps, and CI/CD pipelines. I focus on clean infrastructure design, automation, security, and developer experience.
+
+I’ve worked on multi region architectures, shared Terraform modules, production grade CI/CD pipelines, and cloud platforms that teams can deploy on with confidence. I care about clarity, documentation, and building things that last.
+
+I like solving real problems, learning how systems behave under load, and turning messy setups into simple, repeatable patterns.
+
+Things I enjoy working on
+	•	AWS infrastructure and cloud architecture
+	•	Kubernetes, ECS, and container platforms
+	•	Terraform modules and infrastructure as code
+	•	CI/CD pipelines with GitHub Actions and Jenkins
+	•	GitOps with ArgoCD
+	•	Observability, reliability, and scaling systems
+
+Currently learning
+	•	Platform engineering patterns
+	•	Kubernetes internals and networking
+	•	Cloud security and cost optimization
+	•	Improving developer experience on internal platforms
+
+Ask me about
+AWS, Terraform, Kubernetes, CI/CD design, GitOps, scaling applications, and DevOps troubleshooting.
+
+<br><br>⚡ Fun fact<br>I enjoy breaking complex systems into simple building blocks and documenting them so others can move faster with confidence.
 
 
 ## 🌐 Socials:
