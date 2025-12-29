@@ -28,6 +28,7 @@ AWS, Terraform, Kubernetes, CI/CD design, GitOps, scaling applications, and DevO
 <br><br>⚡ Fun fact<br>I enjoy breaking complex systems into simple building blocks and documenting them so others can move faster with confidence.
 
 
+
 ## 🏅 Certifications
 
 <p>
@@ -58,6 +59,7 @@ AWS, Terraform, Kubernetes, CI/CD design, GitOps, scaling applications, and DevO
     />
   </a>
 </p>
+
 
 
 ## 🌐 Socials:
