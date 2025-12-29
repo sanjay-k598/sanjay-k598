@@ -31,17 +31,29 @@ AWS, Terraform, Kubernetes, CI/CD design, GitOps, scaling applications, and DevO
 ## 🏅 Certifications
 
 <p align="left">
-  <img src="https://images.credly.com/size/220x220/images/0e2845fa-6e5e-4f77-9b7f-8b2c8a6a4b8e/AWS-SolArchitect-Associate.png"
-       alt="AWS Solutions Architect Associate"
-       width="110" />
+  <a href="HREF_HERE_FOR_AWS_SAA" target="_blank">
+    <img
+      src="https://images.credly.com/size/220x220/images/0e2845fa-6e5e-4f77-9b7f-8b2c8a6a4b8e/AWS-SolArchitect-Associate.png"
+      alt="AWS Solutions Architect Associate"
+      width="110"
+    />
+  </a>
 
-  <img src="https://images.credly.com/size/220x220/images/8f1b4c94-8f7a-4e69-8f6b-58a6f0f7b4c3/AWS-SolArchitect-Professional.png"
-       alt="AWS Solutions Architect Professional"
-       width="110" />
+  <a href="HREF_HERE_FOR_AWS_SAP" target="_blank">
+    <img
+      src="https://images.credly.com/size/220x220/images/8f1b4c94-8f7a-4e69-8f6b-58a6f0f7b4c3/AWS-SolArchitect-Professional.png"
+      alt="AWS Solutions Architect Professional"
+      width="110"
+    />
+  </a>
 
-  <img src="https://images.credly.com/size/220x220/images/2f9a9c78-3d1f-4c2b-9c34-8a6b2f0b6c4a/Oracle-Cloud-Infrastructure-Associate-2020.png"
-       alt="Oracle Cloud Infrastructure Associate 2020"
-       width="110" />
+  <a href="HREF_HERE_FOR_OCI_ASSOCIATE" target="_blank">
+    <img
+      src="https://images.credly.com/size/220x220/images/2f9a9c78-3d1f-4c2b-9c34-8a6b2f0b6c4a/Oracle-Cloud-Infrastructure-Associate-2020.png"
+      alt="Oracle Cloud Infrastructure Associate 2020"
+      width="110"
+    />
+  </a>
 </p>
 
 
