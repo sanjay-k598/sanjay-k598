@@ -9,6 +9,27 @@ I’ve worked on multi region architectures, shared Terraform modules, productio
 
 I like solving real problems, learning how systems behave under load, and turning messy setups into simple, repeatable patterns.
 
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
+### About Me
+
+I enjoy building cloud platforms that teams actually enjoy using. My work spans AWS infrastructure, Kubernetes and ECS based platforms, Terraform driven infrastructure as code, and CI/CD pipelines using GitHub Actions and Jenkins. I follow GitOps practices with ArgoCD and focus on observability, reliability, and scaling systems.
+
+I’m currently diving deeper into platform engineering, Kubernetes internals and networking, cloud security, cost optimization, and preparing for the CKAD certification.
+
+    </td>
+    <td width="40%" align="center">
+      <img
+        src="https://raw.githubusercontent.com/sanjay-k598/sanjay-k598.github.io/main/assets/images/gif.gif"
+        alt="Coding illustration"
+        width="300"
+      />
+    </td>
+  </tr>
+</table>
+
 <p align="right">
   <img
     src="https://raw.githubusercontent.com/sanjay-k598/sanjay-k598.github.io/main/assets/images/gif.gif"
