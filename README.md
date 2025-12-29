@@ -30,32 +30,19 @@ AWS, Terraform, Kubernetes, CI/CD design, GitOps, scaling applications, and DevO
 
 ## 🏅 Certifications
 
-<p align="left">
-  <a href="HREF_HERE_FOR_AWS_SAA" target="_blank">
-    <img
-      src="https://images.credly.com/size/220x220/images/0e2845fa-6e5e-4f77-9b7f-8b2c8a6a4b8e/AWS-SolArchitect-Associate.png"
-      alt="AWS Solutions Architect Associate"
-      width="110"
-    />
+<p>
+  <a href="PASTE_YOUR_AWS_SAA_LINK_HERE">
+    <img src="https://images.credly.com/size/220x220/images/0e2845fa-6e5e-4f77-9b7f-8b2c8a6a4b8e/AWS-SolArchitect-Associate.png" width="110" alt="AWS Solutions Architect Associate"/>
   </a>
 
-  <a href="HREF_HERE_FOR_AWS_SAP" target="_blank">
-    <img
-      src="https://images.credly.com/size/220x220/images/8f1b4c94-8f7a-4e69-8f6b-58a6f0f7b4c3/AWS-SolArchitect-Professional.png"
-      alt="AWS Solutions Architect Professional"
-      width="110"
-    />
+  <a href="PASTE_YOUR_AWS_SAP_LINK_HERE">
+    <img src="https://images.credly.com/size/220x220/images/8f1b4c94-8f7a-4e69-8f6b-58a6f0f7b4c3/AWS-SolArchitect-Professional.png" width="110" alt="AWS Solutions Architect Professional"/>
   </a>
 
-  <a href="HREF_HERE_FOR_OCI_ASSOCIATE" target="_blank">
-    <img
-      src="https://images.credly.com/size/220x220/images/2f9a9c78-3d1f-4c2b-9c34-8a6b2f0b6c4a/Oracle-Cloud-Infrastructure-Associate-2020.png"
-      alt="Oracle Cloud Infrastructure Associate 2020"
-      width="110"
-    />
+  <a href="PASTE_YOUR_OCI_LINK_HERE">
+    <img src="https://images.credly.com/size/220x220/images/2f9a9c78-3d1f-4c2b-9c34-8a6b2f0b6c4a/Oracle-Cloud-Infrastructure-Associate-2020.png" width="110" alt="Oracle Cloud Infrastructure Associate 2020"/>
   </a>
 </p>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjaykhambam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sanjaykumar.k598) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjaykumar.k598@gmail.com) 
