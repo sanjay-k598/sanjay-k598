@@ -9,7 +9,6 @@ I’ve worked on multi region architectures, shared Terraform modules, productio
 
 I like solving real problems, learning how systems behave under load, and turning messy setups into simple, repeatable patterns.
 
-<table>
   <tr>
     <!-- LEFT: ABOUT TEXT -->
     <td width="65%" valign="top">
@@ -23,7 +22,6 @@ I like solving real problems, learning how systems behave under load, and turnin
       />
     </td>
   </tr>
-</table>
 
 ## Things I enjoy working on
 
