@@ -9,19 +9,6 @@ I’ve worked on multi region architectures, shared Terraform modules, productio
 
 I like solving real problems, learning how systems behave under load, and turning messy setups into simple, repeatable patterns.
 
-  <tr>
-    <!-- LEFT: ABOUT TEXT -->
-    <td width="65%" valign="top">
-    </td>
-    <!-- RIGHT: IMAGE / GIF -->
-    <td width="35%" align="center" valign="top">
-      <img
-        src="https://raw.githubusercontent.com/sanjay-k598/sanjay-k598.github.io/main/assets/images/gif.gif"
-        alt="Coding illustration"
-        width="300"
-      />
-    </td>
-  </tr>
 
 ## Things I enjoy working on
 
