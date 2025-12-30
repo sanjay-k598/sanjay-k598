@@ -13,29 +13,7 @@ I like solving real problems, learning how systems behave under load, and turnin
   <tr>
     <!-- LEFT: ABOUT TEXT -->
     <td width="65%" valign="top">
-
-<p>
-I’m a Platform and Cloud DevOps Engineer who enjoys building reliable cloud systems and making complex infrastructure easy to use.
-</p>
-
-<p>
-Most of my work lives around AWS, Kubernetes, and Terraform. I design and operate scalable platforms using ECS, EKS, GitOps, and CI/CD pipelines. I focus on clean infrastructure design, automation, security, and developer experience.
-</p>
-
-<p>
-I’ve worked on multi region architectures, shared Terraform modules, production grade CI/CD pipelines, and cloud platforms that teams can deploy on with confidence. I care about clarity, documentation, and building things that last.
-</p>
-
-<p>
-I like solving real problems, learning how systems behave under load, and turning messy setups into simple, repeatable patterns.
-</p>
-
-<p>
-I’m currently diving deeper into platform engineering, Kubernetes internals and networking, cloud security, and cost optimization. I’m also actively preparing for the <strong>CKAD certification</strong>.
-</p>
-
     </td>
-
     <!-- RIGHT: IMAGE / GIF -->
     <td width="35%" align="center" valign="top">
       <img
