@@ -14,16 +14,30 @@ I like solving real problems, learning how systems behave under load, and turnin
     <!-- LEFT: ABOUT TEXT -->
     <td width="65%" valign="top">
 
-Hello! I’m Sanjay, a Platform and DevOps Engineer who enjoys building cloud platforms that teams actually enjoy using.
+<p>
+I’m a Platform and Cloud DevOps Engineer who enjoys building reliable cloud systems and making complex infrastructure easy to use.
+</p>
 
-My work spans AWS infrastructure, Kubernetes and ECS based platforms, Terraform driven infrastructure as code, and CI/CD pipelines using GitHub Actions and Jenkins. I follow GitOps practices with ArgoCD and care deeply about observability, reliability, and scaling systems the right way.
+<p>
+Most of my work lives around AWS, Kubernetes, and Terraform. I design and operate scalable platforms using ECS, EKS, GitOps, and CI/CD pipelines. I focus on clean infrastructure design, automation, security, and developer experience.
+</p>
 
-I’m currently diving deeper into platform engineering, Kubernetes internals and networking, cloud security, and cost optimization. I’m also actively preparing for the **CKAD certification** while focusing on improving developer experience through simpler internal tooling.
+<p>
+I’ve worked on multi region architectures, shared Terraform modules, production grade CI/CD pipelines, and cloud platforms that teams can deploy on with confidence. I care about clarity, documentation, and building things that last.
+</p>
+
+<p>
+I like solving real problems, learning how systems behave under load, and turning messy setups into simple, repeatable patterns.
+</p>
+
+<p>
+I’m currently diving deeper into platform engineering, Kubernetes internals and networking, cloud security, and cost optimization. I’m also actively preparing for the <strong>CKAD certification</strong>.
+</p>
 
     </td>
 
     <!-- RIGHT: IMAGE / GIF -->
-    <td width="35%" align="center">
+    <td width="35%" align="center" valign="top">
       <img
         src="https://raw.githubusercontent.com/sanjay-k598/sanjay-k598.github.io/main/assets/images/gif.gif"
         alt="Coding illustration"
@@ -32,7 +46,6 @@ I’m currently diving deeper into platform engineering, Kubernetes internals an
     </td>
   </tr>
 </table>
-
 
 ## Things I enjoy working on
 
