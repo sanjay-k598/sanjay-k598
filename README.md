@@ -25,7 +25,7 @@ I’m currently diving deeper into platform engineering, Kubernetes internals an
     <!-- RIGHT: IMAGE / GIF -->
     <td width="35%" align="center">
       <img
-        src="PASTE_YOUR_IMAGE_OR_GIF_URL_HERE"
+        src="https://raw.githubusercontent.com/sanjay-k598/sanjay-k598.github.io/main/assets/images/gif.gif"
         alt="Coding illustration"
         width="300"
       />
