@@ -1,5 +1,12 @@
 ## Hi there, I'm Sanjay Khambam!👋
 
+<h2>
+  Hi there, I’m Sanjay Khambam!
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
+       width="30"
+       alt="waving hand" />
+</h2>
+
 # About Me:
 I’m a Platform and Cloud DevOps Engineer who enjoys building reliable cloud systems and making complex infrastructure easy to use.
 
