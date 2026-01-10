@@ -21,6 +21,7 @@ I enjoy building cloud platforms that teams actually enjoy using. My day to day 
 
 ## Currently learning 
 I’m currently going deeper into platform engineering, Kubernetes internals and networking, cloud security, and cost optimization. I’m also actively preparing for the CKA certification and sharpening my Kubernetes application design skills.
+
 Here is the homelab setup I'm currently working >>
 
 Ask me about
