@@ -22,7 +22,7 @@ I enjoy building cloud platforms that teams actually enjoy using. My day to day 
 ## What I'm currently learning 
 I’m currently going deeper into platform engineering, Kubernetes internals and networking, cloud security, and cost optimization. I’m also actively preparing for the CKA certification and sharpening my Kubernetes application design skills.
 
-Here is the homelab setup I'm currently working >>
+Here is the homelab setup I'm currently working >> https://github.com/sanjay-k598/homelab-gitops
 
 Ask me about
 AWS, Terraform, Kubernetes, CI/CD design, GitOps, scaling applications, and DevOps troubleshooting.
