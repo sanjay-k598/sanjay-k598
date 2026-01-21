@@ -19,7 +19,7 @@ I like solving real problems, learning how systems behave under load, and turnin
 
 I enjoy building cloud platforms that teams actually enjoy using. My day to day work spans AWS infrastructure, Kubernetes and ECS based platforms, Terraform driven infrastructure as code, and CI/CD pipelines using GitHub Actions and Jenkins. I’m a strong believer in GitOps with ArgoCD and care deeply about observability, reliability, and scaling systems the right way.
 
-## Currently learning 
+## What I'm Currently learning 
 I’m currently going deeper into platform engineering, Kubernetes internals and networking, cloud security, and cost optimization. I’m also actively preparing for the CKA certification and sharpening my Kubernetes application design skills.
 
 Here is the homelab setup I'm currently working >>
